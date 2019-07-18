@@ -1,6 +1,6 @@
-# advanced-programming-2-PaulElcampeon
-
 # Farm-App
+
+## College Project
 
 Beta can be accessed at https://farm-app-beta.herokuapp.com/
 
